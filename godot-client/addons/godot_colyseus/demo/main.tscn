@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://ceqab8i8yqmjj"]
+
+[ext_resource type="Script" uid="uid://br0kslxga6rr8" path="res://addons/godot_colyseus/demo/main.gd" id="1"]
+
+[node name="Node2D" type="Node2D" unique_id=2022839309]
+script = ExtResource("1")

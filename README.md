@@ -1,4 +1,4 @@
-# Colyseus+Godot experiments
+# Multiduck: a Colyseus+Godot kit
 
 This project aims to provide a monorepo for a colyseus server plus a godot client, with a working lobby and an example room.
 

@@ -4,3 +4,12 @@ build
 .devmode.json
 .env
 nohup.out
+
+#godot
+.godot/
+/android/
+*.uid
+*.import
+.import/
+export.cfg
+export_credentials.cfg
